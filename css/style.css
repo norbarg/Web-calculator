@@ -10,7 +10,7 @@ body {
     background-image: url('https://kappa.lol/shfpSV');
     margin: 0;
     flex-direction: column;
-    background-size: cover; /* або contain / auto */
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
 }
