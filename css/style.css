@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('https://kappa.lol/shfpSV');
+    background-image: url('/assets/lightBackground.png');
     margin: 0;
     flex-direction: column;
     background-size: cover;
